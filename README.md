@@ -1,2 +1,2 @@
 # greetings-world
-Lets see how its done repository
+Hi, I like to code, eat, sleep and repeat!
